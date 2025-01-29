@@ -23,11 +23,8 @@ This repository is dedicated to showcasing the power of HTML and CSS in creating
 
 Below is a list of projects included in this repository:
 
-1. **Responsive Portfolio Website**
-2. **Landing Page with Flexbox**
-3. **Grid-Based Gallery**
-4. **Multi-Section Blog Layout**
-5. **CSS-Only Animation Examples**
+1. **Responsive Grid Website**
+
 
 Projects are stored in their respective folders. Each project folder includes:
 - The HTML and CSS files.
@@ -41,7 +38,7 @@ Projects are stored in their respective folders. Each project folder includes:
 To view or edit any project:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/html-css-projects.git
+   git clone https://github.com/Jaybabson007/HTML-CSS-Projects-.git 
 2. Navigate to the folder of the project you'd like to view.
 3. Open the index.html file in your browser to see the project in action.
 Feel free to explore and learn from the code.
